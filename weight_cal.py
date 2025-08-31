@@ -1,0 +1,1 @@
+print('I am Karthik from India')
